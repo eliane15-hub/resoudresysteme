@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://github.com/eliane15-hub/resoudresysteme
+BugReports: https://github.com/eliane15-hub/resoudresysteme/issues
